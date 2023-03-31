@@ -1,1 +1,1 @@
-# Client_Status_Report
+Generated status report for client to address their organizational problem, which details the process of gathering data into the proper format for import into a corresponding table in MySQL. This process results in the ability to use SQL as a tool to query the data set for answers, enabling the client to meet their goal of decreasing the prevalence of heart disease within their state. 
